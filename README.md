@@ -41,6 +41,9 @@ The analysis followed a structured supervised learning workflow:
 To evaluate classifier performance, I examined results using multiple approaches:
 
 - **Confusion matrix:** Used to visualise true positives, false positives, true negatives, and false negatives.
+My model has difficulty distinguishing versicolor and viriginica in some cases: the Virginica-Versicolor entry in the confusion matrix is non-zero.
+![3x3 confusion matrix with rows and columns for setosa, versicolor and virginica. From top left to bottom right the entries are 15, 0, 0, 0, 12, 0, 0, 1, 10](iris-confusion-matrix.png)
+  
 - **Manual metric calculation:** Implemented custom calculations for:
   - Accuracy  
   - Precision  
@@ -50,7 +53,7 @@ These manually computed values were then compared against scikit-learn’s built
 
 This process strengthened my understanding of how evaluation metrics relate directly to confusion matrix outcomes, and why accuracy alone is often insufficient for classification problems.
 
-Based on the confusion matrix analysis, I also reflected on whether the model prioritised **precision or recall**, and why that behaviour occurred.
+
 
 ### Skills Demonstrated
 
