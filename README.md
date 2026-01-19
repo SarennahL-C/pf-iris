@@ -6,6 +6,8 @@ Although the Iris dataset is widely used, I approached this task as an opportuni
 
 ![Photographs of the three iris species included in the dataset.](iris-machinelearning.png)
 
+Image from https://www.datacamp.com/tutorial/machine-learning-in-r.
+
 ### What’s in this repository
 
 - **Jupyter Notebook:** step-by-step analysis (`iris_logistic_regression.ipynb`)    
