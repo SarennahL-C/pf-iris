@@ -66,5 +66,5 @@ This process strengthened my understanding of how evaluation metrics relate dire
 
 ### Requirements
 
-Install the required Python dependencies with: `pip install -r requirements.txt`
+Install the required Python packages with: `pip install -r requirements.txt`
 
