@@ -200,6 +200,3 @@ By contrasting supervised classification with unsupervised structure discovery, 
 - awareness of the limitations of common techniques
 
 Together, these analyses reflect the kind of judgement required when applying machine learning methods in real-world settings.
-
-Install the required Python packages with: `pip install -r requirements.txt`
-
